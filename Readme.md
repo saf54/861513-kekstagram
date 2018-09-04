@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Andrey Shaposhnikov](https://up.htmlacademy.ru/javascript/15/user/861513).
-* Наставник: `Неизвестно`.
+* Наставник: `Борис Мудрук`.
 
 ---
 
